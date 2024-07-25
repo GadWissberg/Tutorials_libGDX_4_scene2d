@@ -1,0 +1,11 @@
+/android/build
+/core/build
+.lock
+/.gradle
+/.idea/
+/gradlew
+/gradlew.bat
+
+# Project exclude paths
+/lwjgl3/build/
+/lwjgl3/build/classes/kotlin/main/
